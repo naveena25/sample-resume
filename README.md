@@ -1,7 +1,7 @@
 # sample-resume
 ### Naveena Eswarawaka
 
-22433 36th AVE SE Bothell WA| 425-785-5789|  [naveena25@gmail.com](mailto:naveena25@gmail.com) |www.linkedin.com/in/naveenae/
+22433 36th AVE SE Bothell WA| 425-785-5789|  [naveena25@gmail.com](mailto:naveena25@gmail.com) | <www.linkedin.com/in/naveenae/>
 # Summary
 
 Result-driven Quality Assurance professional with solid knowledge in manual and automated software testing and Agile practioner
