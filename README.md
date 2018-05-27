@@ -12,9 +12,9 @@ Bachelor in Computer Science, Srikrishnadevaraya University, India              
 
 # Skills
 
-- ··C#, Oracle, SQL/PLSQL, MSSQL Server, SOA Parasoft
-- ··Azure, Informatica, Oracle Golden Gate, Data router, Apache Kafka
-- ··ClearCase, HP Quality center, Itrack, Rally, Unix, Windows
+- C#, Oracle, SQL/PLSQL, MSSQL Server, SOA Parasoft
+- Azure, Informatica, Oracle Golden Gate, Data router, Apache Kafka
+- ClearCase, HP Quality center, Itrack, Rally, Unix, Windows
 
 # Experience
 
@@ -65,7 +65,7 @@ The Site Transport Node (STN) is a node that handles Abis traffic over Internet 
 - Coordinated with 4 global teams for project deliveries
 - Handled numerous emergencies related to failure or malfunction of the software and releases corrections to address the problems. Received appreciation from customers for addressing the emergency fixes in timely manner.
 
-**Project:  **** CPP (Connectivity Packet Platform, Ericsson)                                      **
+**Project:   CPP (Connectivity Packet Platform, Ericsson) **
 
 Ericsson Connectivity Packet Platform (CPP) is a platform product for high availability applications to be used when developing ATM and IP based nodes.
 
